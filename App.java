@@ -4,7 +4,9 @@ public class App {
     }
 
     public static void sayHello() {
-        System.out.println("Hello from Kane");
+
+        System.out.println("Hello from Harry and Kane");
+
     }
 }
 
